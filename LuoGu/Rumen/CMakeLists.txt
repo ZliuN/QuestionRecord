@@ -11,4 +11,8 @@ add_executable(
         ../../NewCode/Contest/55969/1004.cpp
         ../../NewCode/Contest/55969/1005.c
         ../../NewCode/Contest/55969/1007.c
+        ../../NewCode/Contest/55969/1008.c
+        ../../NewCode/Contest/55969/1009.c
+        ../../NewCode/Contest/55969/1010.c
+        ../../NewCode/Contest/55969/1011.c
 )
