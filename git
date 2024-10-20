@@ -1,9 +1,0 @@
-#添加git文件
-git add .
-#提交git
-git commit -m “提交说明”
-#提交
-git push origin master
-
-#取消服务器验证
-git config --global http.sslVerify false
