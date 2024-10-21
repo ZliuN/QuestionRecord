@@ -18,16 +18,19 @@
 //     printf("%.2lf", square);
 // }
 
-
-double xa,ya,xb,yb,xc,yc;
-double sq(double x){return x*x;}
-double dist(double xa,double ya,double xb,double yb){
-	return sqrt(sq(abs(xa-xb))+sq(abs(ya-yb)));
-}
-int main(){
-    scanf("%lf%lf%lf%lf%lf%lf",&xa,&ya,&xb,&yb,&xc,&yc);
-    double a=dist(xa,ya,xb,yb),b=dist(xa,ya,xc,yc),c=dist(xb,yb,xc,yc);
-    double p=(a+b+c)/2;
-    printf("%.2lf",sqrt(p*(p-a)*(p-b)*(p-c)));
+double x1, y11, x2, y2, x3, y3, a, b, c, p;
+inline double dis(double x1, double y11, double x2, double y2) {
+    return sqrt((x1 - x2) * (x1 - x2) + (y11 - y2) * (y11 - y2));
+} //给定坐标计算两点之间距离
+int main(void) {
+    scanf("%lf %lf %lf %lf %lf %lf", &x1, &y11, &x2, &y2, &x3, &y3);
+    a = dis(x1, y11, x2, y2);
+    b = dis(x2, y2, x3, y3);
+    c = dis(x3, y3, x1, y11);
+/*
+a, b, c为三边边长
+*/
+    p = (a + b + c) / 2; //p为周长一半
+    printf("%.2lf\n", sqrt(p * (p - a) * (p - b) * (p - c))); //直接用简单的海伦公式即可
     return 0;
 }
