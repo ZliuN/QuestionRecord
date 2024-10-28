@@ -2,7 +2,7 @@
 
 int main(){
     long long m,k;
-    int count,last;
+    int count = 0,last;
     scanf("%lld %lld", &m,&k);
     for(int i=1;i<=15;i++){
         last = m % 10;
