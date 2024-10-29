@@ -8,6 +8,9 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
+                "-Wall",
+                "-Wextra",
+                "-Wuninitialized",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
@@ -28,6 +31,9 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
+                "-Wall",
+                "-Wextra",
+                "-Wuninitialized",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
