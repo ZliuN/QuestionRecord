@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int main(){
     double x, a, y, b, z;
     scanf("%lf %lf %lf %lf", &x, &a, &y, &b);
