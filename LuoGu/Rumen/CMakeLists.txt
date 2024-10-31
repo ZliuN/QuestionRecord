@@ -3,6 +3,9 @@ project(Jxust C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Jxust ../main.c
+add_executable(
         B2057.c
-        B2084.c)
+        B2084.c
+        ../../NewCode/Contest/55969/1002.c
+        B2001.cpp
+)
