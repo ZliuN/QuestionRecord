@@ -8,4 +8,7 @@ add_executable(
         B2084.c
         ../../NewCode/Contest/55969/1002.c
         B2001.cpp
+        ../../NewCode/Contest/55969/1004.cpp
+        ../../NewCode/Contest/55969/1005.c
+        ../../NewCode/Contest/55969/1007.c
 )

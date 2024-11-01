@@ -53,7 +53,9 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				4,
+				5
 			]
 		}
 	],
@@ -92,7 +94,10 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3,
+				4,
+				5
 			]
 		}
 	],
@@ -113,6 +118,23 @@
 		{
 			"backtrace" : 1,
 			"path" : "B2001.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "E:/Jxust/NewCode/Contest/55969/1004.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "E:/Jxust/NewCode/Contest/55969/1005.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "E:/Jxust/NewCode/Contest/55969/1007.c",
 			"sourceGroupIndex" : 0
 		}
 	],

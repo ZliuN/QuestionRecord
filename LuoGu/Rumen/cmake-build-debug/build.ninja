@@ -61,6 +61,18 @@ build CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1002.c.obj: C_COMPIL
   OBJECT_DIR = CMakeFiles\B2057.c.dir
   OBJECT_FILE_DIR = CMakeFiles\B2057.c.dir\E_\Jxust\NewCode\Contest\55969
 
+build CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1005.c.obj: C_COMPILER__B2057.2ec_unscanned_Debug E$:/Jxust/NewCode/Contest/55969/1005.c || cmake_object_order_depends_target_B2057.c
+  DEP_FILE = CMakeFiles\B2057.c.dir\E_\Jxust\NewCode\Contest\55969\1005.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\B2057.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\B2057.c.dir\E_\Jxust\NewCode\Contest\55969
+
+build CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1007.c.obj: C_COMPILER__B2057.2ec_unscanned_Debug E$:/Jxust/NewCode/Contest/55969/1007.c || cmake_object_order_depends_target_B2057.c
+  DEP_FILE = CMakeFiles\B2057.c.dir\E_\Jxust\NewCode\Contest\55969\1007.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\B2057.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\B2057.c.dir\E_\Jxust\NewCode\Contest\55969
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target B2057.c
@@ -69,7 +81,7 @@ build CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1002.c.obj: C_COMPIL
 #############################################
 # Link the executable B2057.c.exe
 
-build B2057.c.exe: C_EXECUTABLE_LINKER__B2057.2ec_Debug CMakeFiles/B2057.c.dir/B2084.c.obj CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1002.c.obj
+build B2057.c.exe: C_EXECUTABLE_LINKER__B2057.2ec_Debug CMakeFiles/B2057.c.dir/B2084.c.obj CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1002.c.obj CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1005.c.obj CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1007.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\B2057.c.dir
