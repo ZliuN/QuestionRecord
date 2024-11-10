@@ -1,4 +1,14 @@
 {
     "C_Cpp.default.compilerPath": "D:\\MinGW\\bin\\gcc.exe",
-    "cmake.sourceDirectory": "E:/Jxust/LuoGu/Rumen"
+    "cmake.sourceDirectory": "E:/Jxust/LuoGu/Rumen",
+    "files.associations": {
+        "stdio.h": "c",
+        "random": "c",
+        "algorithm": "c",
+        "stdlib.h": "c",
+        "B2097.C": "cpp",
+        "math.h": "c",
+        "limits": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

@@ -1,0 +1,50 @@
+[
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\B2084.c.obj -c E:\\Jxust\\LuoGu\\Rumen\\B2084.c",
+  "file": "E:/Jxust/LuoGu/Rumen/B2084.c",
+  "output": "CMakeFiles/B2057.c.dir/B2084.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1002.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1002.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1002.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1002.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1005.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1005.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1005.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1005.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1007.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1007.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1007.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1007.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1008.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1008.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1008.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1008.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1009.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1009.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1009.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1009.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1010.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1010.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1010.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1010.c.obj"
+},
+{
+  "directory": "E:/Jxust/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\B2057.c.dir\\E_\\Jxust\\NewCode\\Contest\\55969\\1011.c.obj -c E:\\Jxust\\NewCode\\Contest\\55969\\1011.c",
+  "file": "E:/Jxust/NewCode/Contest/55969/1011.c",
+  "output": "CMakeFiles/B2057.c.dir/E_/Jxust/NewCode/Contest/55969/1011.c.obj"
+}
+]
