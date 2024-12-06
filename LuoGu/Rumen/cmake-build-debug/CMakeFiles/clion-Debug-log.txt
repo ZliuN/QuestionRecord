@@ -1,4 +1,1 @@
-"D:\Jetbrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Jetbrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\Jxust\LuoGu\Rumen -B E:\Jxust\LuoGu\Rumen\cmake-build-debug
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: E:/Jxust/LuoGu/Rumen/cmake-build-debug
+CMakeLists.txt not found in E:\Jxust\LuoGu\Rumen Select CMakeLists.txt
