@@ -1,6 +1,6 @@
 {
     "C_Cpp.default.compilerPath": "D:\\MinGW\\bin\\gcc.exe",
-    "cmake.sourceDirectory": "E:/Jxust/NewCode",
+    "cmake.sourceDirectory": "E:/Jxust",
     "files.associations": {
         "stdio.h": "c",
         "random": "c",

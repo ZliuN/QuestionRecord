@@ -1,3 +1,0 @@
-E:/Jxust/LuoGu/Rumen/cmake-build-debug/CMakeFiles/B2057.c.dir
-E:/Jxust/LuoGu/Rumen/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Jxust/LuoGu/Rumen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

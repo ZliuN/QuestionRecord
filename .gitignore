@@ -1,0 +1,9 @@
+.git
+.idea
+.vscode
+input.txt
+commit.md
+Pauser.exe
+Pauser.c
+CMakeLists.txt
+build
