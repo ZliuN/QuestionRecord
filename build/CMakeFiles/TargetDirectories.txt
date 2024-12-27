@@ -1,3 +1,0 @@
-E:/Jxust/build/CMakeFiles/B2057.c.dir
-E:/Jxust/build/CMakeFiles/edit_cache.dir
-E:/Jxust/build/CMakeFiles/rebuild_cache.dir
